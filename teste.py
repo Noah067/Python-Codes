@@ -85,6 +85,8 @@
 
 
 linguagem = "Python"
-
+rtoih
+etrhsrehsr
+hasattrhtsrhrsh
 
 
