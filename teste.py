@@ -88,5 +88,8 @@ linguagem = "Python"
 rtoih
 etrhsrehsr
 hasattrhtsrhrsh
+iuufibuyoiuyobazgivuyo
 
+atrehaetrhaedzhbzaedhteh
+ehthetheahtzaeh
 
