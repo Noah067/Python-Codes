@@ -84,12 +84,4 @@
 # print(frase)
 
 
-linguagem = "Python"
-rtoih
-etrhsrehsr
-hasattrhtsrhrsh
-iuufibuyoiuyobazgivuyo
-
-atrehaetrhaedzhbzaedhteh
-ehthetheahtzaeh
 
